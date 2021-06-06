@@ -24,3 +24,9 @@ part/alexander/aula/comparators/Estudante.java
  part.alexander.aula.comparators.Estudante
 part/alexander/aula/comparators/CollectionsMap.java
  part.alexander.aula.comparators.CollectionsMap
+part/alexander/aula/optional/ExemploOptionalEstados.java
+ part.alexander.aula.optional.ExemploOptionalEstados
+part/alexander/aula/optional/ExemploOptionalPrimitivos.java
+ part.alexander.aula.optional.ExemploOptionalPrimitivos
+part/alexander/aula/optional/ExemploOptional.java
+ part.alexander.aula.optional.ExemploOptional
