@@ -1,0 +1,26 @@
+part/alexander/aula/list/ExemploList.java
+ part.alexander.aula.list.ExemploList
+part/alexander/aula/list/ExemploVector.java
+ part.alexander.aula.list.ExemploVector
+part/alexander/aula/queue/ExemploLinkedList.java
+ part.alexander.aula.queue.ExemploLinkedList
+part/alexander/aula/set/ExemploHashSet.java
+ part.alexander.aula.set.ExemploHashSet
+part/alexander/aula/set/ExemploLinkedHashSet.java
+ part.alexander.aula.set.ExemploLinkedHashSet
+part/alexander/aula/set/ExemploTreeSet.java
+ part.alexander.aula.set.ExemploTreeSet
+part/alexander/aula/map/ExemploHashTable.java
+ part.alexander.aula.map.ExemploHashTable
+part/alexander/aula/map/ExemploTreeMap.java
+ part.alexander.aula.map.ExemploTreeMap
+part/alexander/aula/map/ExemploHashMap.java
+ part.alexander.aula.map.ExemploHashMap
+part/alexander/aula/comparators/ComparatorExemploList.java
+ part.alexander.aula.comparators.ComparatorExemploList
+part/alexander/aula/comparators/EstudanteOrdemIdadeReversaComparator.java
+ part.alexander.aula.comparators.EstudanteOrdemIdadeReversaComparator
+part/alexander/aula/comparators/Estudante.java
+ part.alexander.aula.comparators.Estudante
+part/alexander/aula/comparators/CollectionsMap.java
+ part.alexander.aula.comparators.CollectionsMap
